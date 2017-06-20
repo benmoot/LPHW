@@ -32,5 +32,5 @@ print "And here's without:", 7 / 4
 
 # HOW TO: round up
 import math
-print math.ceil(7.0 / 4.0)
+print "Rounding up:", math.ceil(7.0 / 4.0)
 # ceil = ceiling function
