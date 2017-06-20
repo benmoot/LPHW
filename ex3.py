@@ -1,6 +1,9 @@
 print "I will now count my chickens:"
 
+# add 25 to 30 / 6
 print "Hens", 25 + 30 / 6
+
+# 100 minus 25 plus 0.03 times 4
 print "Roosters", 100 - 25 * 3 % 4
 
 print "Now I will count the eggs:"
