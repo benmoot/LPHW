@@ -25,5 +25,5 @@ print "Is it greater?", 5 > -2
 print "Is it greater or equal?", 5 >= -2
 print "Is it less or equal?", 5 <= -2
 
-
-print "I'm tired of this not working."
+print "There's a difference when a decimal is used:", 7.0 / 4.0
+print "And here's without:", 7 / 4 
