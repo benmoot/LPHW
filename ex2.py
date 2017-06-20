@@ -15,6 +15,3 @@ this is a multi
 comment line
 '''
 # if ''' is in front of text it will not be ran by program
-
-
-print TEST
