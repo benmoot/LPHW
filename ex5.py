@@ -21,3 +21,5 @@ my_age, my_height, my_weight, my_age + my_height + my_weight
 )
 
 # %s prints strings, %d prints intergers, %r prints the string in 'quotes'
+
+# test
