@@ -8,7 +8,6 @@ print "Roosters", 100 - 25 * 3 % 4
 
 print "Now I will count the eggs:"
 
-
 # Order of Operations: PEMDAS
 # Parentheses, exponents, multiplication, division, addition, subtraction
 print 3 + 2 + 1 - 5 + 4 % 2 - 1 / 4 + 6
@@ -30,3 +29,8 @@ print "Is it less or equal?", 5 <= -2
 
 print "There's a difference when a decimal is used:", 7.0 / 4.0
 print "And here's without:", 7 / 4
+
+# HOW TO: round up
+import math
+print math.ceil(7.0 / 4.0)
+# ceil = ceiling function
