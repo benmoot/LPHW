@@ -3,7 +3,7 @@ print "Mary had a little lamb."
 # a single quote is typically used for shorter var
 print "Its fleece was white as %s." % 'snow'
 print "And everywhere that Mary went."
-print "." * 10 # TODO what did this do??
+print "." * 10 # printed 10 dots
 
 end1 = "C"
 end2 = "h"
