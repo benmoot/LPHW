@@ -30,7 +30,7 @@ unicodename = "For unicode names, you use \N(name) and add the name."
 carr_return = "Carriage return sounds like a typewriter \r"
 tab = "\tWell we already know this one."
 vtab = "\vBut this vertical tab."
-
+newline = "\nTesting \nThis \nOut"
 print backslash
 print single_quote
 print double_quote
@@ -42,8 +42,15 @@ print unicodename
 print carr_return
 print tab
 print vtab
-
+print newline
 # # rotating loading bar
 # while True:
 #         for i in ["/","-","|","\\","|"]:
 #             print "%s\r" % i,
+
+
+'''
+i'm going to try to see why i would use this
+instead of triple-double-quotes
+'''
+# i have no idea
